@@ -3,12 +3,24 @@
   "version": "1.0.0",
   "description": "gulp optimizer",
   "main": "gulpfile.js",
-  "dependencies": {
-    "gulp": "^3.9.0"
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-cache": "^0.4.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-concat-css": "^2.2.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-if": "^2.0.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-load-plugins": "^1.0.0",
+    "gulp-minify-html": "^1.0.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-size": "^2.0.0",
+    "gulp-uglify": "^1.4.2"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "optimizer"
+    "test": "optimize"
   },
   "repository": {
     "type": "git",
