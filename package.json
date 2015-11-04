@@ -1,0 +1,23 @@
+{
+  "name": "optimizer__ui",
+  "version": "1.0.0",
+  "description": "gulp optimizer",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "optimizer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SadDeploy/optimizer__ui.git"
+  },
+  "author": "SadDeploy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SadDeploy/optimizer__ui/issues"
+  },
+  "homepage": "https://github.com/SadDeploy/optimizer__ui#readme"
+}
