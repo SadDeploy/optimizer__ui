@@ -20,7 +20,7 @@ Installation process:
 3. Copy all img  into "app/images" folder
 4. Copy all html into "app/" folder
 ```
-	THEN
+		THEN
 	
 To optimize project run:
 ```
