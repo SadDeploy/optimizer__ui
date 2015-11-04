@@ -14,12 +14,12 @@ Installation process:
 2. Run ```npm install``` to install dependencies
 
 ## Usage
-
+```
 1. Copy all ccs  into "app/styles" folder
 2. Copy all  js  into "app/scripts" folder
 3. Copy all img  into "app/images" folder
 4. Copy all html into "app/" folder
-
+```
 	THEN
 	
 To optimize project run:
