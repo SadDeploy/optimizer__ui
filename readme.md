@@ -6,7 +6,6 @@
 
 Prerequisites:
 * [Node.js](http://nodejs.org/) 
-* [Bower](http://bower.io/) 
 
 Installation process:
 
